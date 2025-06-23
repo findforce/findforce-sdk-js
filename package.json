@@ -1,0 +1,22 @@
+{
+  "name": "findforce",
+  "version": "0.0.1",
+  "description": "FindForce Email Verification SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests coming soon\" && exit 0",
+    "prepublishOnly": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findforce/findforce-sdk-js.git"
+  },
+  "keywords": ["email", "verification", "validation", "findforce"],
+  "author": "FindForce",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/findforce/findforce-sdk-js/issues"
+  },
+  "homepage": "https://github.com/findforce/findforce-sdk-js#readme",
+  "dependencies": {}
+}
